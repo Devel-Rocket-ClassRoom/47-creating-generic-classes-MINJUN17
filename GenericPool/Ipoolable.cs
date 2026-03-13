@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-interface IPoolable
+public interface IPoolable
 {
     void Reset();
 }
